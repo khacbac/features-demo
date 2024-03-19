@@ -7,6 +7,12 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appID": "6479637716.features-demo.vercel.app",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
