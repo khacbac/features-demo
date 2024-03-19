@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.lifestyle.staging",
       "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "7D:E9:32:BF:77:0C:EA:C9:40:07:EC:A9:EF:34:0D:A8:D2:9C:85:C1:48:CB:DE:AA:E2:13:8E:C2:FE:8F:48:A0"
       ]
     }
   }
