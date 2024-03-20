@@ -3,7 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "8U3FPN3FU9.com.affyn.lifestyle.stag"
+          "8U3FPN3FU9.com.affyn.lifestyle.stag",
+          "573UVJUH9U.com.affyn.lifestyle.stag"
         ],
         "components": [
           {
@@ -25,7 +26,8 @@
   },
   "webcredentials": {
     "apps": [
-      "8U3FPN3FU9.com.affyn.lifestyle.stag"
+      "8U3FPN3FU9.com.affyn.lifestyle.stag",
+      "573UVJUH9U.com.affyn.lifestyle.stag"
     ]
   }
 }
