@@ -1,19 +1,31 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "6479637716.staging.marketplace.affyn.com",
-        "paths": [
-          "*"
-        ]
-      },
-      {
-        "appID": "6479637716.features-demo.vercel.app",
-        "paths": [
-          "*"
+        "appIDs": [
+          "8U3FPN3FU9.com.affyn.lifestyle",
+          "8U3FPN3FU9.com.affyn.lifestyle.stag",
+          "8U3FPN3FU9.com.affyn.lifestyle.dev"
+        ],
+        "components": [
+          {
+            "/": "/mobile/*",
+            "comment": "Matches any URL with a path that starts with /mobile/."
+          },
+          {
+            "/": "/mobile/reset-password/*",
+            "exclude": true,
+            "comment": "Matches any URL with a path that starts with /mobile/reset-password/ and instructs the system not to open it as a universal link."
+          }
         ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8U3FPN3FU9.com.affyn.lifestyle",
+      "8U3FPN3FU9.com.affyn.lifestyle.stag",
+      "8U3FPN3FU9.com.affyn.lifestyle.dev"
     ]
   }
 }
