@@ -3,11 +3,13 @@
     "details": [
       {
         "appIDs": [
-          "8U3FPN3FU9.com.affyn.lifestyle",
-          "8U3FPN3FU9.com.affyn.lifestyle.stag",
-          "8U3FPN3FU9.com.affyn.lifestyle.dev"
+          "8U3FPN3FU9.com.affyn.lifestyle.stag"
         ],
         "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          },
           {
             "/": "/mobile/*",
             "comment": "Matches any URL with a path that starts with /mobile/."
@@ -23,9 +25,7 @@
   },
   "webcredentials": {
     "apps": [
-      "8U3FPN3FU9.com.affyn.lifestyle",
-      "8U3FPN3FU9.com.affyn.lifestyle.stag",
-      "8U3FPN3FU9.com.affyn.lifestyle.dev"
+      "8U3FPN3FU9.com.affyn.lifestyle.stag"
     ]
   }
 }
